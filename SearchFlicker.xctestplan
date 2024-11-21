@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "2A841E2F-60A5-4A42-A43E-668F776782DA",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SearchFlicker.xcodeproj",
+      "identifier" : "79B12D8E2CA59B0100209A0C",
+      "name" : "SearchFlicker"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:SearchFlicker.xcodeproj",
+        "identifier" : "C18372212CEE2CBA00827F04",
+        "name" : "SearchFlickerTests"
+      }
+    }
+  ],
+  "version" : 1
+}
